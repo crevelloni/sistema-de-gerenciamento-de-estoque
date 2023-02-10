@@ -1,0 +1,2 @@
+﻿-- starting class 01:05
+-- hot reload to active open terminal or powershell and input command dotnet watch
